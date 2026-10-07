@@ -1,0 +1,1994 @@
+ 
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Ma checklist</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 600px;
+      margin: 40px auto;
+      padding: 20px;
+      background: #f3f5f8;
+      
+    }
+
+    .carte {
+      background: white;
+      padding: 10px;
+      border-radius: 10px;
+      width: 800px;
+      
+    }
+
+    h1 {
+      color: black;
+    }
+	
+	h2 {
+      color: #ffca4a;
+    }
+	
+	h4 {
+      color: #1769AA;
+    }
+
+    .tache {
+      margin: 18px 0;
+      text-align: left;
+    }
+
+    #barre {
+      background: #285da8;
+      height: 12px;
+      width: 0%;
+      border-radius: 10px;
+    }
+
+    .fond-barre {
+      background: #e1e5eb;
+      border-radius: 10px;
+      overflow: hidden;
+    }
+	
+	.separator {
+    margin: 10px auto;
+    height: 5px;
+    width: auto;
+    background: #111;
+}
+
+h2 {
+  text-align: center;
+  text-decoration: underline overline #ebdb03;
+}
+
+h4 {
+  text-align: center;
+  text-decoration: underline;
+}
+    
+  </style>
+</head>
+
+<body>
+  <div class="carte">
+    <h1>Ma checklist</h1>
+    <p id="compteur">0 sur ? tâches terminées</p>
+<div class="fond-barre">
+      <div id="barre"></div>
+    </div>
+    <h2>Connaître les fondamentaux</h2>
+    
+
+
+    
+    
+	
+	<div class="separator"></div>
+	<!------------------------------------------ Div - Maitriser les fondamentaux de la théorie des couleurs--------------------------------------------------------------------------------------------------->
+	<div> 
+	<h4>Maitriser les fondamentaux de la théorie des couleurs</h4>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La couleur
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+     L'art de la couleur
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Psychologie des couleurs
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La notion de polices de caractères
+    </div>
+  
+
+  <div class="tache">
+      <input type="checkbox" class="case">
+      Évolutions typographiques et connotations - De l'antiquité aux années 1920
+    </div>
+  
+
+  <div class="tache">
+      <input type="checkbox" class="case">
+      Évolutions typographiques et connotations - Du Bauhaus aux années 2000
+    </div>
+  
+
+  <div class="separator"></div>
+  </div>
+  
+  <!------------------------------------------ End Div - Maitriser les fondamentaux de la théorie des couleurs--------------------------------------------------------------------------------------------------->
+  
+  <!------------------------------------------ Div - [Réaliser un storyboard]--------------------------------------------------------------------------------------------------->
+  <h4>Réaliser un storyboard</h4>
+  <div class="tache">
+      <input type="checkbox" class="case">
+      Présentation de la formation Storyboard
+    </div>
+	
+	<div class="tache">
+      <input type="checkbox" class="case">
+	  Le métier de Storyboarder
+    </div>
+	
+	<div class="tache">
+      <input type="checkbox" class="case">
+      Les bases de dessin
+    </div>
+	
+	<div class="tache">
+      <input type="checkbox" class="case">
+      Les spécificités de la narration audiovisuelle
+    </div>
+	
+	<div class="separator"></div>
+	<!------------------------------------------ End Div - [Réaliser un storyboard]--------------------------------------------------------------------------------------------------->
+  
+
+    <!------------------------------------------ Div - [S'initier au Concept art]--------------------------------------------------------------------------------------------------->
+ 
+  <h4>S'initier au Concept art</h4>
+  <div class="tache">
+      <input type="checkbox" class="case">
+      Introduction au dessin de paysage
+    </div>
+	
+	<div class="tache">
+      <input type="checkbox" class="case">
+      Notions de perspective générale pour le dessin
+    </div>
+	
+	<div class="tache">
+      <input type="checkbox" class="case">
+      Dessiner des paysages naturels en perspective
+    </div>
+	
+	<div class="tache">
+      <input type="checkbox" class="case">
+      Paysages urbains
+    </div>
+	
+	<div class="tache">
+      <input type="checkbox" class="case">
+      Dessiner les décors intérieurs
+    </div>
+	
+	<div class="tache">
+      <input type="checkbox" class="case">
+      Atelier de dessin en perspective
+    </div>
+	
+	
+	
+	<div class="separator"></div>
+	
+	<!------------------------------------------ End Div - [S'initier au Concept art]--------------------------------------------------------------------------------------------------->
+	
+
+    <!------------------------------------------ Div - [S'initier au Character design]--------------------------------------------------------------------------------------------------->
+ 
+     <h4>S'initier au Character design</h4>
+
+	<div class="tache">
+      <input type="checkbox" class="case">
+      Introduction : dessiner le corps humain
+    </div>
+	
+	<div class="tache">
+      <input type="checkbox" class="case">
+      Apprendre à dessiner le corps humain
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Apprendre à dessiner le visage
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Apprendre à dessiner les expressions
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Apprendre à dessiner les membres du corps
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Apprendre à dessiner les mouvements
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Dessin réaliste d'après photo
+    </div>
+
+    <div class="separator"></div>
+<!------------------------------------------ End Div - [S'initier au Character design]--------------------------------------------------------------------------------------------------->
+
+
+<!------------------------------------------ Div - [S'initier à Blender]--------------------------------------------------------------------------------------------------->
+ 
+  
+  
+  
+  <div> 
+	<h4>S'initier à Blender</h4>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Introduction à Blender
+    </div>	
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      L'interface utilisateur
+    </div>	
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Premier projet sur Blender
+    </div>	
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Courbe, surface et texte
+    </div>	
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les modificateurs
+    </div>	
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les matériaux
+    </div>	
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Animation des objets
+    </div>	
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Eclairage & rendu
+    </div>	
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Atelier créatif - Scène Cartoon - Introduction et
+mise en place du projet
+    </div>	
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Atelier créatif - Scène Cartoon - Modélisation 1
+    </div>	
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Atelier créatif - Scène Cartoon - Modélisation 2
+    </div>	
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Atelier créatif - Scène Cartoon - Modélisation 3
+    </div>	
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Atelier créatif - Scène Cartoon - Texturing procédural
+    </div>	
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Atelier créatif - Scène Cartoon - Éclairage et composition d'image
+    </div>	
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Atelier créatif - Scène Cartoon - Traitement de l'image
+    </div>	
+
+    <div class="separator"></div>
+	
+<!------------------------------------------ End Div - [S'initier à Blender]--------------------------------------------------------------------------------------------------->
+   
+
+<!------------------------------------------ Div - [S'initier à Maya]--------------------------------------------------------------------------------------------------->
+ 
+  
+  
+  
+  <div> 
+	<h4>S'initier à Maya</h4>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Présentation du logiciel Maya
+    </div>	
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Le modeling 3D
+    </div>	
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les shaders
+    </div>	
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Le texturing
+    </div>	
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Le lighting
+    </div>	
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Rendering et compositing sous Arnold
+    </div>	
+	
+    <div class="separator"></div>
+<!------------------------------------------ End Div - [S'initier à Maya]--------------------------------------------------------------------------------------------------->
+
+
+
+<!------------------------------------------ Div - [S'initier à la modélisation 3D et au texturing]--------------------------------------------------------------------------------------------------->
+ 
+  
+  
+  
+  <div> 
+	<h4>S'initier à la modélisation 3D et au texturing</h4>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Création du décor procédural
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Création du pont procédural
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Création de l'arbre procédural
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Introduction au pop network et solver
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Effet pluie
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Effet feuilles d'arbres
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Effet bonus I Follow Curve
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Effet bonus II Follow Surface
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Effet bonus III Around Tree
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La rivière
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Le feu de camp
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les fondamentaux de l'animation par keyframe
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les Polygroupes
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Qu'est-ce que le PBR ?
+    </div>
+
+    <div class="separator"></div>	
+	
+<!------------------------------------------ End Div - [S'initier à la modélisation 3D et au texturing]--------------------------------------------------------------------------------------------------->
+
+
+
+<!------------------------------------------ Div - [S'initier au lighting d'une scène]--------------------------------------------------------------------------------------------------->
+ 
+  
+  
+  
+  <div> 
+	<h4>S'initier au lighting d'une scène</h4>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Introduction et mise en place des plans
+    </div>	
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Modélisation
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Rendu
+    </div>
+	
+    <div class="separator"></div>
+<!------------------------------------------ End Div - [S'initier au lighting d'une scène]--------------------------------------------------------------------------------------------------->
+
+
+
+<!------------------------------------------ Div - [S'initier aux effets spéciaux (VFX)]--------------------------------------------------------------------------------------------------->
+ 
+  
+  
+  
+  <div> 
+	<h4>S'initier aux effets spéciaux (VFX)</h4>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les effets graphiques en temps réel (éclairages dynamiques) - Bases
+    </div>
+    
+    <div class="separator"></div>
+	
+<!------------------------------------------ End Div - [S'initier aux effets spéciaux (VFX)]--------------------------------------------------------------------------------------------------->
+
+<h2>Définition d'un projet d'animation</h2>
+
+<!------------------------------------------ Div - [Mettre en place un pipeline de production]--------------------------------------------------------------------------------------------------->
+ 
+  
+  
+  
+  <div> 
+	<h4>[Mettre en place un pipeline de production</h4>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Comment et pourquoi se former à la gestion de projet d'animation 2D 3D ?
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les milestones
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La présentation d'un pipeline de production
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La pré-production ou phase de conception du
+projet
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La production
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La post-production
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les différentes tâches de la chaîne de production
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les contraintes techniques
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      L'optimisation du planning
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Le prototypage
+    </div>
+    
+    
+
+    <div class="separator"></div>
+	
+<!------------------------------------------ End Div - [Mettre en place un pipeline de production]--------------------------------------------------------------------------------------------------->
+
+
+
+<!------------------------------------------ Div - [Comprendre et organiser et la création d'un projet
+d'animation]--------------------------------------------------------------------------------------------------->
+ 
+  
+  
+  
+  <div> 
+	<h4>Comprendre et organiser et la création d'un projet
+d'animation</h4>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      L'analyse de la demande et la recherche de concepts créatifs
+    </div>	
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Le respect du cahier des charges
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La compréhension des contextes économiques
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      L'évaluation des conditions de faisabilité du projet
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      L'évaluation des enjeux techniques et echnologiques
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La production de documents de référence
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      L'innovation au sein des modes de production
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      L'organisation et la supervision du pipeline de production
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      L'initiation aux méthodes de management
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La planification et l'accompagnement du travail des équipes
+    </div>
+
+    <div class="separator"></div>
+
+	
+<!------------------------ End Div - [Comprendre et organiser et la création d'un projet d'animation]--------------------------------------------------------------------------------------------------->
+
+
+
+<!------------------------------------------ Div - [Concevoir l'identité visuelle d'un projet d'animation]--------------------------------------------------------------------------------------------------->
+ 
+  
+  <div> 
+	<h4>Concevoir l'identité visuelle d'un projet d'animation</h4>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Le moodboard - Introduction générale
+    </div>	
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Le dispositif exploratoire
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La R&D et les références
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les partis pris artistiques et narratifs
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les ressources culturelles adéquates
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Le moodboard - Méthodologie
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La présentation de l'ensemble des références visuelles d'un projet
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Le colorscript - Introduction générale
+    </div>
+
+     <div class="tache">
+      <input type="checkbox" class="case">
+      L'ambiance visuelle d'un film d'animation
+    </div>
+
+     <div class="tache">
+      <input type="checkbox" class="case">
+      Les images clés
+    </div>
+
+    
+	
+    <div class="separator"></div>
+
+<!------------------------------------------ End Div - [Concevoir l'identité visuelle d'un projet d'animation]--------------------------------------------------------------------------------------------------->
+
+<h2>Pré-production d'une œuvre d'animation</h2>
+
+
+<!------------------------------------------ Div - [Appréhender la narration]--------------------------------------------------------------------------------------------------->
+ 
+
+  <div> 
+	<h4>Appréhender la narration</h4>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La construction narrative
+    </div>	
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      L'élaboration du pitch d'un projet
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La note d'intention
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La création d'un enchaînement de situations
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La construction des scènes et des dialogues
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les typologies de récit
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les symboles
+    </div>
+
+    <div class="separator"></div>
+
+	
+<!------------------------------------------ End Div - Appréhender la narration--------------------------------------------------------------------------------------------------->
+
+<!------------------------------------------ Div - [Définir le sound design]--------------------------------------------------------------------------------------------------->
+ 
+ <div> 
+	<h4>Définir le sound design</h4>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Introduction au sound design
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les principes de base de l'enregistrement du son
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Le matériel pour la création d'un sound design
+    </div>
+  
+    <div class="separator"></div>
+  </div>
+	
+<!------------------------------------------ End Div - [Définir le sound design]--------------------------------------------------------------------------------------------------->
+	
+<!------------------------------------------ Div - [Concevoir le character design]--------------------------------------------------------------------------------------------------->
+ 
+   <div> 
+	<h4>Concevoir le character design</h4>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Le character design - Introduction générale
+    </div>
+
+     <div class="tache">
+      <input type="checkbox" class="case">
+      L'étude de personnage (rough)
+    </div>
+
+     <div class="tache">
+      <input type="checkbox" class="case">
+      Les personnages cartoon
+    </div>
+
+     <div class="tache">
+      <input type="checkbox" class="case">
+      Les expressions et les attitudes
+    </div>
+
+     <div class="tache">
+      <input type="checkbox" class="case">
+      Le character design - principes avancés
+    </div>
+
+    <div class="separator"></div>
+  </div>
+ 
+    <!------------------------------------------ End Div - [Concevoir le character design]--------------------------------------------------------------------------------------------------->
+	
+    <!------------------------------------------ Div - [Créer le concept art]--------------------------------------------------------------------------------------------------->
+ 
+   <div> 
+	<h4>Créer le concept art</h4>
+
+     <div class="tache">
+      <input type="checkbox" class="case">
+      Les étapes clés du concept art - Les prérequis du digital painting
+    </div>
+
+     <div class="tache">
+      <input type="checkbox" class="case">
+      La transformation d'une idée en une production visuelle
+    </div>
+
+     <div class="tache">
+      <input type="checkbox" class="case">
+      La perspective
+    </div>
+
+     <div class="tache">
+      <input type="checkbox" class="case">
+      La profondeur de champ
+    </div>
+
+     <div class="tache">
+      <input type="checkbox" class="case">
+      Les traits et les lignes directrices
+    </div>
+    
+
+    <div class="separator"></div>
+  </div>
+ 
+    <!------------------------------------------ End Div - [Créer le concept art]--------------------------------------------------------------------------------------------------->
+	
+
+    <!------------------------------------------ Div - [Concevoir le colorscript]--------------------------------------------------------------------------------------------------->
+ 
+   <div> 
+	<h4>Concevoir le colorscript</h4>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Le colorscript - Introduction générale
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les images clés
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      L'ambiance visuelle d'un film d'animation
+    </div>
+
+    <div class="separator"></div>
+  </div>
+ 
+    <!------------------------------------------ End Div - [Concevoir le colorscript]--------------------------------------------------------------------------------------------------->
+	
+
+    <!------------------------------------------ Div - [Réaliser le story-board]--------------------------------------------------------------------------------------------------->
+ 
+   <div> 
+	<h4>Réaliser le story-board</h4>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La planification de l'ensemble des plans d'un projet d'animation
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les formats d'images et les ratios (4/3, 16/9ème, cinémascope)
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La conception de la représentation visuelle globale d'un projet - Bases
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Le langage cinématographique - Bases
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Le langage cinématographique - Intermédiaire
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Le langage cinématographique - Confirmé
+    </div>
+
+    <div class="separator"></div>
+  </div>
+ 
+    <!------------------------------------------ End Div - [Réaliser le story-board]--------------------------------------------------------------------------------------------------->
+	
+
+    <!------------------------------------------ Div - [Concevoir l'animatique]--------------------------------------------------------------------------------------------------->
+ 
+   <div> 
+	<h4>Concevoir l'animatique</h4>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La réalisation d'une animatique - le choix des plan
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La réalisation d'une animatique - le rythme
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La réalisation d'une animatique - le montage final
+    </div>
+
+    <div class="separator"></div>
+  </div>
+ 
+    <!------------------------------------------ End Div - [Concevoir l'animatique]--------------------------------------------------------------------------------------------------->
+	
+
+    <!------------------------------------------ Div - [Concevoir le sound design]--------------------------------------------------------------------------------------------------->
+ 
+   <div> 
+	<h4>Concevoir le sound design</h4>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Panorama des outils de mixage son
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les bibliothèques de son
+    </div>
+
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      L'enregistrement d'une voix off et mixage des pistes
+    </div>
+
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      L'agencement des pistes sons
+    </div>
+
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Le sous-titrage
+    </div>
+
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La finalisation d'un reportage
+    </div>
+
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Le module exportation
+    </div>
+
+
+    <div class="separator"></div>
+  </div>
+ 
+    <!------------------------------------------ End Div - [Concevoir le sound design]--------------------------------------------------------------------------------------------------->
+	
+
+    <!------------------------------------------ Div - [Réaliser le layout]--------------------------------------------------------------------------------------------------->
+ 
+   <div> 
+	<h4>Réaliser le layout</h4>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Introduction aux principes de base du layout 2D
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Introduction aux principes de base du layout 3D
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Découpage des couches de l'image
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Le décor trait
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Le posing layout
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les indications d'action
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Le clean
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La mise au modèle
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les place-holders
+    </div>
+
+    <div class="separator"></div>
+  </div>
+ 
+    <!------------------------------------------ End Div - [Réaliser le layout]--------------------------------------------------------------------------------------------------->
+	
+    <h2>Production d'une œuvre d'animation</h2>
+
+    <!------------------------------------------ Div - [Créer des puppets 2D]--------------------------------------------------------------------------------------------------->
+ 
+   <div> 
+	<h4>Créer des puppets 2D</h4>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Introduction aux principes de l'animation de puppets
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les Inversed Kinematics
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La fonction autorig
+    </div>
+
+    <div class="separator"></div>
+  </div>
+ 
+    <!------------------------------------------ End Div - [Créer des puppets 2D]--------------------------------------------------------------------------------------------------->
+	
+
+    <!------------------------------------------ Div - [Modéliser en 3D]--------------------------------------------------------------------------------------------------->
+ 
+   <div> 
+	<h4>Modéliser en 3D</h4>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Comment et pourquoi se former à la création 3D ?
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La modélisation d'un personnage en 3 dimensions (Softbody) - Bases
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La modélisation d'un personnage en 3 dimensions (Softbody) - Intermédiaire
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La modélisation d'un personnage en 3 dimensions (Softbody) - Confirmé
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La modélisation d'items ou objets en 3D - Bases
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La modélisation d'items ou objets en 3D Intermédiaire
+    </div>
+
+    <div class="separator"></div>
+  </div>
+ 
+    <!------------------------------------------ End Div - [Modéliser en 3D]--------------------------------------------------------------------------------------------------->
+	
+
+    <!------------------------------------------ Div - [NCréer des matières, couleurs et textures]--------------------------------------------------------------------------------------------------->
+ 
+   <div> 
+	<h4>Créer des matières, couleurs et textures</h4>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La lumière cinématographique - Introduction générale
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les techniques de dessin - ton local
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les techniques de dessin - réhauts
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les techniques de dessin - Sources de lumière
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les éditeurs d'image pour les textures
+    </div>
+
+    <div class="separator"></div>
+  </div>
+ 
+    <!------------------------------------------ End Div - [Créer des matières, couleurs et textures]--------------------------------------------------------------------------------------------------->
+	
+
+    <!------------------------------------------ Div - [Réaliser le texturing]--------------------------------------------------------------------------------------------------->
+ 
+   
+	<h4>Réaliser le texturing</h4>
+    <div> 
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les Uvs mapping - Présentation
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Le dépliage des UVs (Unwrap) - Principes de base
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      L'UV image Editor
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      L'optimisation des matériaux et des textures en appliquant des Uvs
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      L'exportation des textures et des matériaux Bases
+    </div>
+
+    <div class="separator"></div>
+  </div>
+ 
+    <!------------------------------------------ End Div - [Réaliser le texturing]--------------------------------------------------------------------------------------------------->
+	
+    <!------------------------------------------ Div - [Rigger un modèle 3D]--------------------------------------------------------------------------------------------------->
+ 
+   <div> 
+	<h4>Rigger un modèle 3D</h4>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les contraintes techniques (disposition du maillage, bones) - Bases
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les contraintes techniques (disposition du maillage, bones) - Intermédiaire
+    </div>
+
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les contraintes techniques (disposition du maillage, bones) - Confirmé
+    </div>
+
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La mise en place d'un système d'animation - Setup- Étape 1
+    </div>
+
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La mise en place d'un système d'animation  Rigging - Étape 1
+    </div>
+
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La mise en place d'un système d'animation  Rigging - Étape 2
+    </div>
+
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La mise en place d'un système d'animation Rigging - Étape 3
+    </div>
+
+
+    <div class="separator"></div>
+  </div>
+ 
+    <!------------------------------------------ End Div - [Rigger un modèle 3D]--------------------------------------------------------------------------------------------------->
+	
+    <!------------------------------------------ Div - [NSkinner un modèle 3D]--------------------------------------------------------------------------------------------------->
+ 
+   <div> 
+	<h4>Skinner un modèle 3D</h4>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La mise en place d'un système d'animation Skinning - Étape 1
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La mise en place d'un système d'animation Skinning - Étape 2
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La mise en place d'un système d'animation Skinning - Étape 3
+    </div>
+
+    <div class="separator"></div>
+  </div>
+ 
+    <!------------------------------------------ End Div - [NSkinner un modèle 3D]--------------------------------------------------------------------------------------------------->
+	
+    <!------------------------------------------ Div - [Réaliser une animation 2D/3D]--------------------------------------------------------------------------------------------------->
+ 
+   <div> 
+	<h4>Réaliser une animation 2D/3D</h4>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Comment et pourquoi se former à la réalisation des animations 2D 3D
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les techniques d'animation : Les fondamentaux de l'animation 2D
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      L'interface d'un logiciel d'animation 2D
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      L'interface d'un logiciel d'animation 3D
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      L'animation d'un cycle de marche (bipède) - Bases
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      L'animation d'un cycle de marche (bipède) Intermédiaire
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      L'animation d'un cycle de marche (bipède) Confirmé
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La motion capture - Introduction générale
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La synchronisation de l'animation des visages, des voix, des lèvres
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La retranscription des émotions et intentions d'un personnage - réaliste
+    </div>
+
+    <div class="separator"></div>
+  </div>
+ 
+    <!------------------------------------------ End Div - [Réaliser une animation 2D/3D]--------------------------------------------------------------------------------------------------->
+	
+    <!------------------------------------------ Div - [Réaliser du stop motion]--------------------------------------------------------------------------------------------------->
+ 
+   <div> 
+	<h4>Réaliser du stop motion</h4>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Introduction aux principes du stop motion
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les techniques - Pixilation
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les techniques - Cut-out
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les techniques - Clay-motion
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La rotoscopie
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La conception de marionnettes et les armatures
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La fabrication des éléments de décor et accessoires
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      L'animation en stop motion
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      L'animation du visage
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Le frame by frame
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les principaux logiciels dédiés
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Le plateau de tournage
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      L'acquisition des images
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Le montage
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      L'export
+    </div>
+
+    <div class="separator"></div>
+  </div>
+ 
+    <!------------------------------------------ End Div - [Réaliser du stop motion]--------------------------------------------------------------------------------------------------->
+	
+
+	<!------------------------------------------ Div - [Définir l'éclairage d'une scène 3D]--------------------------------------------------------------------------------------------------->
+ 
+   <div> 
+	<h4>Définir l'éclairage d'une scène 3D</h4>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les propriétés de la lumière - Notions
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La dispersion et la diffusion de la lumière - la radiosité - Bases
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La dispersion et la diffusion de la lumière - la radiosité - Intermédiaire
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Le Ray-Tracing - Photoréalisme - Bases
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Le Physically-based Rendering - Bases
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La gestion des modes et Uvs - Bases
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les effets graphiques en temps réel - Bases
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      L'animation des flux lumineux - Bases
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      L'éclairage d'une scène 3D - intérieur vers extérieur
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      L'éclairage d'une scène 3D - Dôme HDRI
+    </div>
+
+    <div class="separator"></div>
+  </div>
+ 
+    <!------------------------------------------ End Div - [Définir l'éclairage d'une scène 3D]--------------------------------------------------------------------------------------------------->
+	<h2>Postproduction d'une œuvre d'animation</h2>
+<!------------------------------------------ Div - [Gérer les moteurs de rendu]--------------------------------------------------------------------------------------------------->
+
+	<div> 
+	
+	<h4>Gérer les moteurs de rendu</h4>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les moteurs de rendu - Introduction générale
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La découverte de l'interface d'un moteur de rendu
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les contraintes d'un moteur graphique (mémoire, capacités, plateforme)
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La configuration des paramètres - Bases
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La configuration des paramètres - Intermédiaire
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La configuration des paramètres - Confirmé
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La rastérisation - rendu en 3D temps réel - Bases
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La rastérisation - rendu en 3D temps réel Intermédiaire
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La rastérisation - rendu en 3D temps réel Confirmé
+    </div>
+
+  <div class="separator"></div>
+  </div> 
+  
+  <!------------------------------------------ End Div - [Gérer les moteurs de rendu]---------------------------------------------------------------------------------------------------> 
+ 
+  <!------------------------------------------ Div - [Concevoir les effets spéciaux]--------------------------------------------------------------------------------------------------->
+
+	<div> 
+	<h4>Concevoir les effets spéciaux</h4>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les effets spéciaux numériques - Introduction générale
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La découverte de l'interface d'un logiciel de VFX
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les procédés de simulation - Atmosphérique : la pluie
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les procédés de simulation - Atmosphérique : la neige
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les procédés de simulation - Environnement : l'eau
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les procédés de simulation - la fumée
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les procédés de simulation - les explosions
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les procédés de simulation - les fluides
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Comparaison FX 2D et 3D
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les effets graphiques en temps réel (éclairages dynamiques) - Intermédiaire
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les effets graphiques en temps réel (éclairages dynamiques) - Confirmé
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La conception d'effets spéciaux pour le monde professionnel
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      L'intégration d'effets spéciaux dans les logiciels connexes
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Le matte painting - retouche d'images et photobashing
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Le matte painting - perspective atmosphérique (fog)
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Le matte painting - set extensions
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Le matte painting - plans 2.5D et camera mapping
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les notions - Capture optique
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les notions - Capture gyroscopique
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les notions - Capture mécanique (exosquelette)
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les notions - Capture magnétique (champ basse fréquence)
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La préparation du Studio Set-up - 8 à 24 caméras
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      L'utilisation du plateau de motion capture (Studio Set-up)
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La calibration de la zone de capture
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La pose des points de tracking
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Le facial motion capture (face tracking)
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La capture des éléments en motion capture (performance capture)
+    </div>
+
+  <div class="separator"></div>
+  </div> 
+  
+  <!------------------------------------------ End Div - [Concevoir les effets spéciaux]---------------------------------------------------------------------------------------------------> 
+ 
+  <!------------------------------------------ Div - [Assurer le suivi de la postproduction]--------------------------------------------------------------------------------------------------->
+
+	<div> 
+	<h4>Assurer le suivi de la postproduction</h4>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La participation à la gestion du projet
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La production des livrables
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Le développement des collaborations
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La recherche de solutions à des problématiques techniques
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Le kick-off meeting
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les méthodes Agile et Scrum
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      L'accompagnement du travail des équipes
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La composition et l'étalonnage d'une image - Bases
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La composition et l'étalonnage d'une image Intermédiaire
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La composition et l'étalonnage d'une image Confirmé
+    </div>
+
+
+  <div class="separator"></div>
+  </div> 
+  
+  <!------------------------------------------ End Div - [Assurer le suivi de la postproduction]---------------------------------------------------------------------------------------------------> 
+ 
+<!------------------------------------------ Div - [Réaliser le compositing]--------------------------------------------------------------------------------------------------->
+
+	<div>
+    <h4>Réaliser le compositing</h4>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      [Nom de la competence a apprendre]
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      [Nom de la competence a apprendre]
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      [Nom de la competence a apprendre]
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      [Nom de la competence a apprendre]
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Comment et pourquoi se former à la réalisation des effets spéciaux et compositing ? 
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La composition d'un plan avec incrustation de fond vert (keying) - Bases
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La composition d'un plan avec incrustation de fond vert (keying) - Intermédiaire
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La composition d'un plan avec incrustation de fond vert (keying) - Confirmé
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La reconstitution des mouvements de caméras (tracking 2D et 3D) - Bases
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La reconstitution des mouvements de caméras (tracking 2D et 3D) -  Intermédiaire
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La reconstitution des mouvements de caméras (tracking 2D et 3D) - Confirmé
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      L'effacement des éléments sur un plan
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Compositing de passes de rendu 3D
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La post production - Final output
+    </div>
+
+  <div class="separator"></div>
+  </div> 
+  
+  <!------------------------------------------ End Div - [Réaliser le compositing]---------------------------------------------------------------------------------------------------> 
+ 
+    <!------------------------------------------ Div - [Assurer la qualité des images]--------------------------------------------------------------------------------------------------->
+
+	<div> 
+	<h4>Assurer la qualité des images</h4>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La retouche d'images - Notions
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les corrections colorimétriques - Bases
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les corrections colorimétriques - Intermédiaire
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Les corrections colorimétriques - Confirmé
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La composition d'un plan à partir de prises de vue réelles - Bases
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La composition d'un plan à partir de prises de vue réelles - Intermédiaire
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      La composition d'un plan à partir de prises de vue réelles - Confirmé
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      L'application de filtres créatifs - Bases
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      L'application de filtres créatifs - Intermédiaire
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      L'application de filtres créatifs - Confirmé
+    </div>
+    </div>
+
+  <div class="separator"></div>
+  </div> 
+  
+  <!------------------------------------------ End Div - [Assurer la qualité des images]---------------------------------------------------------------------------------------------------> 
+ 
+<h2>Se former à l’IA pour son métier d’animateur 2D-3D VFX</h2>
+	
+  <!------------------------ Div - [Et si l’IA devenait un nouvel outil au service de votre créativité ?]--------------------------------------------------------------------------------------------------->
+
+	<div> 
+	<h4>Et si l’IA devenait un nouvel outil au service de votre créativité ?</h4>
+
+  <h5>Module complémentaire hors référentiel du titre RNCP</h5>
+
+    <div class="tache">
+      
+      Maîtrisez les usages de l’IA appliqués à l’animation pour :
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Explorer des concepts et construire vos références visuelles
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Concevoir des prompts adaptés à vos intentions artistiques
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Choisir les bons outils IA à chaque étape du pipeline
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Construire des workflows hybrides de production
+    </div>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      Garder le contrôle créatif tout en respectant le cadre juridique
+    </div>
+
+  <div class="separator"></div>
+  </div> 
+  
+  <!------------------------------------------ End Div - [Et si l’IA devenait un nouvel outil au service de votre créativité ?]---------------------------------------------------------------------------------------------------> 
+ 
+  <!------------------------------------------ Div - [Nom de la div]--------------------------------------------------------------------------------------------------->
+<!--
+	<div> 
+	<h2>Bootcamp / Connaître les fondamentaux</h2>
+	<h4>[Nom de la categorie]</h4>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      [Nom de la competence a apprendre]
+    </div>
+
+  <div class="separator"></div>
+  </div> 
+  -->
+  <!------------------------------------------ End Div - [Nom de la div]---------------------------------------------------------------------------------------------------> 
+ 
+  
+  
+  
+
+
+ 
+
+
+
+
+
+
+  <script>
+    const cases = document.querySelectorAll(".case");
+    const compteur = document.querySelector("#compteur");
+    const barre = document.querySelector("#barre");
+
+    function actualiserProgression() {
+      let total = cases.length;
+      let terminees = 0;
+
+      cases.forEach(function (caseACocher) {
+        if (caseACocher.checked) {
+          terminees++;
+        }
+      });
+
+      let pourcentage = terminees / total * 100;
+
+      compteur.textContent =
+        terminees + " sur " + total + " tâches terminées";
+
+      barre.style.width = pourcentage + "%";
+    }
+
+    cases.forEach(function (caseACocher) {
+      caseACocher.addEventListener(
+        "change",
+        actualiserProgression
+      );
+    });
+  </script>
+</body>
+</html>
+
+
+<!------------------------------------------ Div - [Nom de la div]--------------------------------------------------------------------------------------------------->
+<!--
+	<div> 
+	<h2>Bootcamp / Connaître les fondamentaux</h2>
+	<h4>[Nom de la categorie]</h4>
+
+    <div class="tache">
+      <input type="checkbox" class="case">
+      [Nom de la competence a apprendre]
+    </div>
+
+  <div class="separator"></div>
+  </div> 
+  -->
+  <!------------------------------------------ End Div - [Nom de la div]---------------------------------------------------------------------------------------------------> 
+ 
+  
